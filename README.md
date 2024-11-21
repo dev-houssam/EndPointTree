@@ -1,5 +1,3 @@
-Voici un exemple de README pour GitHub, avec des emojis pour ajouter du style et rendre la documentation plus agréable :
-
 ```markdown
 # EndpointTree 🌳🚀
 
@@ -173,9 +171,3 @@ Si vous souhaitez contribuer à **EndpointTree**, n'hésitez pas à soumettre un
 
 # Happy Coding! 💻
 ```
-
-### Ce que contient ce README :
-- **Emojis** pour rendre la lecture plus dynamique et agréable. 🎉🌱
-- **Installation et usage simple** pour aider à démarrer rapidement.
-- **Exemples pratiques** pour illustrer l'utilisation du module.
-- **Sécurisation SSL** et intégration avec Express pour une flexibilité maximale.
